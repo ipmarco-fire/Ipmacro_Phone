@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- config -->
+	<string name="customer_id">islam</string>
+    <string name="weburl">http://mobile.universetv.net</string>
+    <string name="channel_url">/channel_resource/live/liveListNew.html</string>
+    
+    <!-- login -->
+    <string name="app_name">Ipmarco_Iptv</string>
+    <string name="action_settings">Settings</string>
+    <string name="activating_device">Activating the device</string>
+    <string name="activate_fial_connect_error">Activate Fail. Can not connect service.</string>
+    <string name="activate_success">Activate Success.</string>
+    <string name="activate_fail">Activate Fail.</string>
+    <string name="expire_tip">Software has expired.</string>
+    <string name="dialog_title">Warn</string>
+    <string name="dialog_sure">Sure</string>
+    <string name="dialog_quit">Quit</string>
+    <string name="dialog_upgrade">Upgrade</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="dialog_retry">Retry</string>
+    <string name="loginning">Loginning</string>
+    <string name="loading">Loading</string>
+    <string name="connect_server_fail">Connect server fail.</string>
+    <string name="new_version">There is a new Version,Please Upgrade.</string>
+    <string name="init">Initting</string>
+
+    <!-- menu -->
+    <string name="menu_index">Live</string>
+    <string name="menu_movie">Movie</string>
+    <string name="menu_drama">Drama</string>
+    <string name="menu_info">Info</string>
+    <!-- live -->
+    <string name="all_channels">All</string>
+    <string name="fav_channels">Favorites</string>
+    
+    <!-- vod -->
+    <string name="vod_detail">Detail</string>
+    <string name="vod_play">Play</string>
+    <string name="vod_actors">Actors</string>
+    <string name="vod_director">Director</string>
+    <string name="vod_language">Language</string>
+    <string name="vod_region">Region</string>
+    
+    <!-- info -->
+    <string name="recharge">Recharge</string>
+    <string name="balance">Hi,Your Balance </string>
+    <string name="no_plan">You have not ordered Package</string>
+    <string name="expiry">Expiry</string>
+    <!-- golbal -->
+    <string name="load_data_error">Load data error.</string>
+</resources>
